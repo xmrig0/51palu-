@@ -1,5 +1,5 @@
 # 🍉 91吃瓜最新地址
-[导航：](https://xmrig0.github.io/51palu-)
+[点击导航页](https://xmrig0.github.io/51palu-)
 ## 欢迎访问 **91吃瓜最新地址**，为您提供最新的访问地址。
 
 ---
