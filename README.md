@@ -8,11 +8,12 @@
 
 | 地区       | 地址                  |
 |------------|-----------------------|
-| 上海       | [shanghaiav.com](http://shanghaiav.com) |
-| 东北       | [dongbeiav.com](http://dongbeiav.com) |
-| 广东       | [guangdongav.com](http://guangdongav.com) |
-| 安徽       | [anhuiav.com](http://anhuiav.com) |
-| 广西       | [guangxiav.com](http://guangxiav.com) |
+| 上海       | [shanghaiav.com](https://shanghaiav.com) |
+| 东北       | [dongbeiav.com](https://dongbeiav.com) |
+| 广东       | [guangdongav.com](https://guangdongav.com) |
+| 安徽       | [anhuiav.com](https://anhuiav.com) |
+| 广西       | [guangxiav.com](https://guangxiav.com) |
+| 我要啪撸       | [51palu.cc](https://51palu.cc) |
 
 ---
 
@@ -20,6 +21,7 @@
 
 - 如果某些地址无法访问，可能是因为网络限制或其他原因，请尝试切换到其他地址。
 - 为了更好的浏览体验，建议您使用稳定的网络环境。
+- 购买稳定VPN，就上[金泰商城](https://faka.acfun1.com) 
 
 ---
 
